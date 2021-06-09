@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hermes</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- Admob Ads -->
+    <string name="admob_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_inter">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="welcome_to_hermes">Welcome to Hermes</string>
+
+
+</resources>
